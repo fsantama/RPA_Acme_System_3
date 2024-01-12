@@ -1,0 +1,17 @@
+com\cuentasActivas\model\Account.class
+com\cuentasActivas\util\Constants.class
+com\cuentasActivas\model\dao\ManageDDBB.class
+com\cuentasActivas\service\WorkItemsService.class
+com\cuentasActivas\rpa\WorkItemsPage.class
+com\cuentasActivas\task\AcmeSystem3.class
+com\cuentasActivas\task\AcmeSystem1.class
+com\cuentasActivas\task\updateWorkItem.class
+com\cuentasActivas\rpa\LoginPage.class
+com\cuentasActivas\service\AcmeSystem3Service.class
+configs\main\acme-system3.xml
+configs\main\acme-system1.xml
+com\cuentasActivas\model\Client.class
+com\cuentasActivas\rpa\WorkItemsUpdatePage.class
+com\cuentasActivas\rpa\WorkItemsDetailsPage.class
+com\cuentasActivas\model\WorkItem.class
+com\cuentasActivas\rpa\ActiveAccountsPlaneRobot.class
